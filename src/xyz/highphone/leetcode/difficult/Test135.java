@@ -28,7 +28,6 @@ public class Test135 {
         System.out.println(new Test135().candy(ratings));
     }
 
-    //今天平安夜，leetcode好应景啊，给安排了这么一道困难题，又是翻译题解的一天。
     public int candy(int[] ratings) {
         int cnt = 0;
         int len = ratings.length;
